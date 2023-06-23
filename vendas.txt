@@ -1,0 +1,5 @@
+CREATE TABLE vendas (
+  id INT PRIMARY KEY,
+  produto VARCHAR(100),
+  preco DOUBLE
+);
